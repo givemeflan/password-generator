@@ -1,5 +1,5 @@
 # password-generator
-A project using HTML,CSS , and JavaScript to create a password generator. 
+A project using HTML, CSS, and JavaScript to create a password generator. 
 
 ## Resources: 
 
